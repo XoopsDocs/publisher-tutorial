@@ -12,7 +12,24 @@
 
 ## Module Purpose 
 
-This module is for publishing News and Blogs
+This module is currently the best XOOPS module for publishing News and Blogs. Originally based on SmartSection, it improved on it, and became the best Blog/News module for XOOPS. The key features:
+
+* Categories and Subcategories
+* Pages
+* Four basic templates, custom templates
+* File Wrapping
+* Page/Category images
+* File attachments
+* Scheduled publishing and expiration
+* Order by date, ratings, sort order
+* Ratings
+* Comments
+* SEO
+* Permissions: Submissions, Submit/Edit fields, Categories, Pages, Moderation (global)
+* CK Editor and others using XOOPSeditors
+* Import from SmartSection and News modules
+* Easy cloning (change the directory name)
+
 
 ![image001.png](assets/image001.png)
 *Figure 1: Main view of the XXX Module (Admin side)*
