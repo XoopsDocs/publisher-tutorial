@@ -12,7 +12,7 @@
 
 ## Module Purpose 
 
-This module is currently the best XOOPS module for publishing News and Blogs. Originally based on SmartSection, it improved on it, and became the best Blog/News module for XOOPS. The key features:
+This module is for publishing News and Blogs. Originally based on SmartSection, it improved heavily on it, and became the best Blog/News module for XOOPS. The key features:
 
 * Categories and Subcategories
 * Pages
