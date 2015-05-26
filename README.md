@@ -31,8 +31,8 @@ This module is for publishing News and Blogs. Originally based on SmartSection, 
 * Easy cloning (change the directory name)
 
 
-![image001.png](assets/image001.png)
-*Figure 1: Main view of the XXX Module (Admin side)*
+![image001.png](assets/image001.jpg)
+*Figure 1: Main view of the Publisher Module (Admin side)*
 
 # Table of Content
 
