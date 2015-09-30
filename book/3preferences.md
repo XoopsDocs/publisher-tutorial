@@ -6,7 +6,7 @@ The customization level of Publisher is very high, enabling the Webmaster to def
 **SEO**
 
 | Item | Description | Choices |
-| -- | -- | -- |
+| --- | --- | --- |
 | URL rewrite method | If you choose htaccess, then don't forget to put “.htaccess” file under your root folder | None, <br>Path-Info,<br> htaccess  |
 | URL Rewriting module name | If URL Rewriting is enabled for the module, this is the name of the module that will be used. For example: http://yoursite.com/publisher/... | publisher |
 | Meta Keywords|This keywords will be merged with the keywords set by articles. Use ', ' to separate them.| -- |
@@ -15,7 +15,7 @@ The customization level of Publisher is very high, enabling the Webmaster to def
 
 
 ||<b>Index and category pages</b>||
-|--|--|--|
+|---|---|---|
 |Display the welcome title and message:|If this option is set to “Yes”, the module index page will display the title “Welcome in the Publisher of...”, followed by the welcome message defined below. If this option is set to “No”, none of these lines will be displayed.|Yes, No |
 |Index page welcome message:|Welcome message to be displayed in the index page of the module.||
 |Display the list of newly published articles?|Select “Yes” to have the list at the bottom of the first page of the module.|Yes, No|
