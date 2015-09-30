@@ -8,7 +8,7 @@ Publisher has following 11 Blocks available to use:
 Here you can see a overview of the individual Blocks:
 
 |Block|Purpose|
-|-|-|
+|--|--|
 |Recent items List|List of Recent Articles|
 |Recent items (Detail)|Recent Items in more detail|
 |In the Spotlight!|Shows the articles currently in the "Spotlight". You can define the criterio to be in the Spotlight|
