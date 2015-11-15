@@ -7,7 +7,7 @@ Publisher has following 11 Blocks available to use:
 
 Here you can see a overview of the individual Blocks:
 
-|Block|Purpose|
+|**Block**|**Purpose**|
 |---|---|
 |Recent items List|List of Recent Articles|
 |Recent items (Detail)|Recent Items in more detail|
