@@ -10,7 +10,7 @@
    * [4.3 Articles](book/43operationsmd.md)
    * [4.4 Permissions](book/44operationsmd.md)
    * [4.5 Mime Types](book/45operationsmd.md)
-   * [4.6 Import](book/46operations.md)
+   * [4.6 Import](book/46operationsmd.md)
    * [4.7 Clone](book/47operations.md)
 * [The User Side](book/5userside.md)
 * [Blocks](book/6blocks.md)
