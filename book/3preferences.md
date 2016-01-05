@@ -5,7 +5,7 @@ The customization level of Publisher is very high, enabling the Webmaster to def
 
 **SEO**
 
-| Item | Description | Choices |
+| **Item** | **Description** | **Choices** |
 | --- | --- | --- |
 | URL rewrite method | If you choose htaccess, then don't forget to put “.htaccess” file under your root folder | None, <br>Path-Info,<br> htaccess  |
 | URL Rewriting module name | If URL Rewriting is enabled for the module, this is the name of the module that will be used. For example: http://yoursite.com/publisher/... | publisher |
@@ -48,10 +48,10 @@ The customization level of Publisher is very high, enabling the Webmaster to def
 |Display articles count|Select “Yes” to display the article count within each category in the category summary table. Please note that the module currently only counts articles within each category and does not count within subcategories.|Yes No |
 ||<b>Print page</b>||
 |Print page header|Header that will be printed for each article||
-|Logo print URL|URL of the logo that will be printed at the top of the page.<br>http://localhost/257cesag/images/logo.gif|
+|Logo print URL|URL of the logo that will be printed at the top of the page.<br>http://YouSite/images/logo.gif|
 |Print page footer|Footer that will be printed for each article||
 ||<b>Format</b>||
-|Date format:|Select a display style. Example: "d-M-Y H:i" translates to "30-Mar-2004 22:35"|Refer to the PHP manual for more display options.|d-M-Y H:i|
+|Date format:|Select a display style. Example: "d-M-Y H:i" translates to "30-Mar-2004 22:35" (Refer to the PHP manual for more display options)|d-M-Y H:i|
 |Sort order|Select the sort order of the items throughout the module.|Date DESC <br> Dates DESC <br>Hits DESC <br>Rating DESC <br>Votes DESC <br>Comments DESC <br>Weight ASC|
 |Use the image Page Navigation:|If you set this option to “Yes”, the Page Navigation will be displayed with images, otherwise, the original Page Naviagation will be used.|Yes No |
 |Use the Real Name of users|When displaying a username, use the real name of that user if he has a set his real name.|Yes No |
@@ -95,8 +95,8 @@ The customization level of Publisher is very high, enabling the Webmaster to def
 |Display block summary on items page?||	Yes No |
 |Display items subtitles in index page?||	Yes No |
 |Display items subtitles in categories pages?||	Yes No |
-|Display item subtitle in item page?||	Yes No |
-|Comment Rules	||Disable Comments<br> Comments are always approved<br> Comments by Registered users are always approved<br>All comments need to be approved by Admin|
-|Allow anonymous comments?||	Yes No |
+|Display item subtitle in item page?|Publisher has the option to provide "subtitles". If you're using them, do you want to display them?|	Yes No |
+|Comment Rules	||- Disable Comments<br>- Comments are always approved<br>- Comments by Registered users are always approved<br>- All comments need to be approved by Admin|
+|Allow anonymous comments?|Decide if you want allow anonymous users to post comments. Very often, this results in a lot of spam messages|	Yes No |
 |Enable Notification|This module allows users to be notified when certain events occur. Select if users should be presented with notification options in a Block (Block-style), within the module (Inline-style), or both. For block-style notification, the Notification Options block must be enabled for this module.|Disable Notification<br> Enable only Block-style <br> Enable only Inline-style<br> Enable Notification (both styles)|
 |Enable Specific Events|Select which notification events to which your users may subscribe.|Global Articles:  New category<br>  Global Articles:  Article submitted<br> Global Articles: New article published<br> Category Items: Article submitted<br> Category Items: New article published<br> Category Items: BookmarkArticle : Comment Added<br> Article: Comment Submitted<br> Article : Bookmark|
