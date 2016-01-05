@@ -26,7 +26,7 @@ This module is for publishing News and Blogs. Originally based on SmartSection, 
 * Comments
 * SEO
 * Permissions: Submissions, Submit/Edit fields, Categories, Pages, Moderation (global)
-* CK Editor and others using XOOPSeditors
+* various Editors provided by XOOPS
 * Import from SmartSection and News modules
 * Easy cloning (change the directory name)
 
