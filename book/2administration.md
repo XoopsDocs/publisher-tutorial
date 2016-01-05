@@ -17,3 +17,5 @@ There are 10 tabs for the Administrator:
 |Clone|If you need separate Publisher instances under different names, you can "clone" Publisher here  |
 |About|Information about Publisher, incl. version number, release date, etc.|
 |Help|Some general help information, with links to this tutorial|
+
+We'll explain the individual tabs in more detail later.
