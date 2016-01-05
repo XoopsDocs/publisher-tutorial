@@ -38,6 +38,8 @@ These are extra fields that can be made available to specific group. Please view
 
 If you compare it to the images shown in the Articles section, this is a huge difference! 
 
+Below is more info about the individual fields. Please test them, so you feel more comfortable, and can make a better decision which ones are the most appropriate for your Blog or News. 
+
 |**Field**|**Description**|
 |---|---|
 |Introduction||
