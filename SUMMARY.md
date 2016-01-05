@@ -11,7 +11,7 @@
    * [4.4 Permissions](book/44operationsmd.md)
    * [4.5 Mime Types](book/45operationsmd.md)
    * [4.6 Import](book/46operationsmd.md)
-   * [4.7 Clone](book/47operations.md)
+   * [4.7 Clone](book/47operationsmd.md)
 * [The User Side](book/5userside.md)
 * [Blocks](book/6blocks.md)
 * [Templates](book/7templates.md)
