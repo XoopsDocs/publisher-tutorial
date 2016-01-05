@@ -6,7 +6,7 @@
 * [3.0 Preferences](book/3preferences.md)
 * [4.0 Operating Instructions](book/4operations.md)
    * [4.1 Summary](book/41operationsmd.md)
-   * [4.2 Categories](42operationsmd.md)
+   * [4.2 Categories](book/42operationsmd.md)
    * [4.3 Articles](book/43operationsmd.md)
    * [4.4 Permissions](book/44operationsmd.md)
    * [4.5 Mime Types](book/45operationsmd.md)
