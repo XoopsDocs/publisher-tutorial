@@ -36,6 +36,8 @@ These are extra fields that can be made available to specific group. Please view
 
 ![](../assets/perm7.jpg)
 
+If you compare it to the images shown in the Articles section, this is a huge difference! 
+
 |**Field**|**Description**|
 |---|---|
 |Introduction||
