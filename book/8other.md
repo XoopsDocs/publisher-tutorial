@@ -2,12 +2,14 @@
 
 XOOPS is a Content Management System (CSM) and a Web Portal program that allows administrators to easily create dynamic websites with great content and many outstanding features. It is an ideal tool for developing small to large dynamic community websites, intra company portals, corporate portals, weblogs and much more. It can be installed on an Internet host with a PHP-capable web server (e.g., Apache) and a database (e.g., MySQL).
 
-The main Project websites is www.xooops.org
+**The main Project websites is http://xooops.org**
+
 XOOPS is released under the terms of the GNU General Public License (GPL) and is free to use and modify. It is free to redistribute as long as you abide by the distribution terms of the GPL.
 
 **What XOOPS stands for:**
 
 XOOPS is an acronym of eXtensible Object Oriented Portal System. Though started as a portal system, XOOPS is in fact striving steadily on the track of Content Management System. It can serve as a web framework for use by small, medium and large sites.
+
 It is highly scalable, from a personal weblog or journal through a community website to an enterprise installation. It has numerous modules that can be used to create all the basic functionality required of the system, e.g. News, Forums, Downloads, Web Links etc.  Customized modules can also be developed by users and integrated seamlessly with the core to serve specific needs such as eCommerrce.
 
 **Pronunciation guide**
@@ -52,7 +54,35 @@ It was a Finalist for the Best Project of SourceForge 2008 Community Awards and 
 
 XOOPS has over 6,600,000 downloads from the SourceForge Website. 
 
-The current development on GitHub: 
+###**The current development on GitHub: **
 
 
+To see what's coming, please check out our **XOOPS GitHub repositories**:
 
+- [XOOPS 2.6.0 Core](https://github.com/XOOPS)
+
+- [XOOPS 2.6.0 Modules](https://github.com/XoopsModules26x)
+
+
+- [XOOPS 2.6.0 Roadmap](https://github.com/XOOPS/XoopsCore/labels/roadmap)
+
+and the new GUI:
+
+- [XOOPS 2.6.0 Enhanced Admin GUI](https://github.com/XOOPS/XoopsCore/issues/252)
+
+
+Please also check out our other Github repositories:
+
+- [XOOPS Documentation](https://github.com/XoopsDocs)
+
+- [XOOPS current Themes](https://github.com/XoopsThemes)
+
+- [XOOPS 2.5.x Modules](https://github.com/XoopsModules25x)
+
+- [XOOPS 2.0.14+ Themes, 3 columns](https://github.com/XoopsThemes25xArchive-3col)
+
+- [XOOPS 2.0.14+ Themes (2 columns)](https://github.com/XoopsThemes25xArchive-2col)
+
+- [XOOPS Theme Archive (Themes for XOOPS < 2.0.14)](https://github.com/XoopsThemesArchive)
+
+- [XOOPS Modules Archive](https://github.com/XoopsModulesArchive)
