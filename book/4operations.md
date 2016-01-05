@@ -4,9 +4,9 @@
 ### [4.1 Summary](41operationsmd.md)
 ### [4.2 Categories](42operationsmd.md)
 ### [4.3 Articles](43operationsmd.md)
-- [4.3.1 Images](431operationsmd.md)
-- [4.3.2 Files](432operationsmd.md)
-- [4.3.3 Others](433operationsmd.md)
+- [4.3.1 Images](431operations.md)
+- [4.3.2 Files](432operations.md)
+- [4.3.3 Others](433operations.md)
  
 ### [4.4 Permissions](44operationsmd.md)
 ### [4.5 Mime Types](45operations.md)
