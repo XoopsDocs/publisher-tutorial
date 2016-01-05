@@ -15,18 +15,21 @@ Let's discuss these sections in more detail:
 
 
 ### Permission to View Categories
-
+![](../assets/perm1.jpg)
 
 ### Permission to Submit Articles
-
+![](../assets/perm2.jpg)
 
 ### Permission to Moderate Article within each Category
-
+![](../assets/perm3.jpg)
 
 ### Permission to use special extra fields as a submitter
-
+![](../assets/perm4.jpg)
 
 ### Permission to use specific Text Editors provided by XOOPS
-
+![](../assets/perm5.jpg)
 
 ### Permission to search and rate articles
+![](../assets/perm6.jpg)
+
+
