@@ -49,6 +49,6 @@ Thanks to the sophisticated Permissions systems of XOOPS, you can create differe
 - Editors: can submit and edit own articles, articles are approved automatically
 - Contributors: can submit, each article has to be approved
  
-![](../assets/article5.jpg)
+And finally, you can set status, date, and notification:
 
 ![](../assets/article6.jpg)
