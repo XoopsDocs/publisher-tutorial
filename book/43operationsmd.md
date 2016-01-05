@@ -49,6 +49,11 @@ Thanks to the sophisticated Permissions systems of XOOPS, you can create differe
 - Editors: can submit and edit own articles, articles are approved automatically
 - Contributors: can submit, each article has to be approved
  
-And finally, you can set status, date, and notification:
+And finally, you can set status, date, and notification, and submit the Article.
 
 ![](../assets/article6.jpg)
+
+There is also an option to import and use documents already written that you have saved in files. Publisher can provide links to these documents. 
+You need to copy such documents manually to the /uploads/publisher/content folder, or you can upload them inside of Publisher:
+
+![](../assets/article7.jpg)
