@@ -19,3 +19,6 @@ To make it easier for you, there are several ways how you can manage the MIME ty
     delete the selected MIME types. 
 - **Pagination**: it makes the navigation much easier. You can define how much entries per page you want to see by selecting the number in the "Number per Page" box
 
+You can also create your own MIME types. 
+
+
