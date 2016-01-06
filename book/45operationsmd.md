@@ -1,3 +1,6 @@
 # 4.5 Mime Types
 
-Overview of file extensions available, where you can decide who can upload what extension
+This tab provides an overview of available file extensions, where you can decide who can upload what extension.
+
+
+
