@@ -56,7 +56,7 @@ It was a Finalist for the Best Project of SourceForge 2008 Community Awards and 
 
 XOOPS has over 6,600,000 downloads from the SourceForge Website. 
 
-###**The current development on GitHub: **
+###**The current development is on GitHub: **
 
 
 To see what's coming, please check out our **XOOPS GitHub repositories**:
