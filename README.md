@@ -8,7 +8,7 @@
             
 ## User Manual
 
-© 2015 XOOPS Project ([www.xoops.org](http://xoops.org))    
+© 2016 XOOPS Project ([www.xoops.org](http://xoops.org))    
 
 ## Module Purpose 
 
@@ -33,6 +33,16 @@ This module is for publishing News and Blogs. Originally based on SmartSection, 
 
 ![image001.jpg](assets/image001.jpg)
 *Figure 1: Main view of the Publisher Module (Admin side)*
+
+## Download/Fork the Module ![](http://xoops.org/images/forkit.png) 
+
+**You can fork the module --> [here](https://github.com/XoopsModules25x/publisher))** 
+
+## How to Contribute
+
+[You can contribute on GitHub](https://github.com/XoopsDocs/publisher-tutorial). Changes will be [pushed to Gitbook.io automatically](https://www.gitbook.com/book/xoops/publisher-tutorial/activity) when the [main repository](https://github.com/XoopsDocs/publisher-tutorial) changes.
+
+Editing the book can be done either by updating the markdown files with a text editor, or opening the repository in [the Gitbook desktop app](https://github.com/GitbookIO/editor/blob/master/README.md). The desktop app will give you a live preview option.
 
 # Table of Content
 
