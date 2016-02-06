@@ -1,0 +1,23 @@
+# Summary
+
+* [Introduction](README.md)
+* [1.0 Install/Uninstall](book/1install.md)
+* [2.0 Administration Menu](book/2administration.md)
+* [3.0 Preferences](book/3preferences.md)
+* [4.0 Operating Instructions](book/4operations.md)
+   * [4.1 Summary](book/41operationsmd.md)
+   * [4.2 Categories](book/42operationsmd.md)
+   * [4.3 Articles](book/43operationsmd.md)
+    * [4.3.1 Images](book/431operations.md)
+    * [4.3.2 Files](book/432operations.md)
+    * [4.3.3 Others](book/433operations.md)
+   * [4.4 Permissions](book/44operationsmd.md)
+   * [4.5 Mime Types](book/45operationsmd.md)
+   * [4.6 Import](book/46operationsmd.md)
+   * [4.7 Clone](book/47operationsmd.md)
+* [The User Side](book/5userside.md)
+* [Blocks](book/6blocks.md)
+* [Templates](book/7templates.md)
+* [Module Credits](book/9credits.md)
+* [About XOOPS CMS](book/10aboutxoops.md)
+
