@@ -5,12 +5,12 @@
 ## Module Publisher
 
 #### for XOOPS 2.5.7
-
+      
 ![logoModule.png](.gitbook/assets/logomodule.png)
-
+            
 ### User Manual
 
-© 2016 XOOPS Project \([www.xoops.org](http://xoops.org)\)
+© 2016 XOOPS Project ([www.xoops.org](https://xoops.org))    
 
 ### Module Purpose
 
@@ -36,7 +36,7 @@ This module is for publishing News and Blogs. Originally based on SmartSection, 
 
 ![image001.jpg](.gitbook/assets/image001.jpg)
 
-### Download/Fork the Module ![](http://xoops.org/images/forkit.png)
+## Download/Fork the Module ![](https://xoops.org/images/forkit.png) 
 
 **You can fork the module --&gt;** [**here**](https://github.com/XoopsModules25x/publisher)**\)**
 
@@ -57,11 +57,12 @@ Editing the book can be done either by updating the markdown files with a text e
 * [Templates](templates.md)
 * [Module Credits](module-credits.md)
 * [About XOOPS](https://github.com/xoops/publisher-tutorial/tree/87d7854c40958150b85c3c237b4a30e3a0c3d0a2/en/book/8other.md)
-
+ 
 ### License:
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
 Unless specified, this content is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-All derivative works are to be attributed to XOOPS Project \([www.xoops.org](http://xoops.org)\)
+All derivative works are to be attributed to XOOPS Project \([www.xoops.org](https://xoops.org)\)
 
+All derivative works are to be attributed to XOOPS Project ([www.xoops.org](https://xoops.org))
