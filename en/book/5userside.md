@@ -1,3 +1,0 @@
-# 5.0 The User Side
-
-Need input from Users....
